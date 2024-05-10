@@ -1,0 +1,17 @@
+{
+  "name": "my-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "readme": "esno ./readme.ts"
+  },
+  "dependencies": {
+    "esno": "^4.0.0",
+    "fast-glob": "^3.3.2",
+    "fs-extra": "^11.2.0"
+  }
+}
